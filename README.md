@@ -6,7 +6,9 @@
 
 - I'm available for winter co-ops starting in January
   
-- Currently learning: 
+- Currently learning: key exchange, encryption, python sockets
+  
+- Currently working on: python encrypted chat application
 
 - E-mail: [TylerKerswell@gmail.com](mailto:TylerKerswell@gmail.com)  
 
