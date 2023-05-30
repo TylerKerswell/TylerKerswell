@@ -58,6 +58,10 @@
 ![](https://komarev.com/ghpvc/?username=TylerKerswell)
   
 </details>
+
+<h2>Check out my projects:</h2>
+
+
 <!--
 **TylerKerswell/TylerKerswell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
