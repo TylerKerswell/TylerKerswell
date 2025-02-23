@@ -12,7 +12,6 @@
 
 - E-mail: [TylerKerswell@gmail.com](mailto:TylerKerswell@gmail.com)  
 
-- Resume: [here](./resume1.pdf)
 
 </details>
 
