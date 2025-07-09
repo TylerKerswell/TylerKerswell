@@ -28,9 +28,6 @@
             <td><a href="https://www.linkedin.com/in/tyler-ler/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://open.spotify.com/user/n2hpgnqmx8iitud1tyalb6195?si=8e9ac2df610f4499">
-            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
-            </a></td>
         </tr>
     </tbody>
 </table>
