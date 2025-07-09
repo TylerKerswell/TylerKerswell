@@ -1,20 +1,5 @@
 ![Header](./header.png)
 
-<details open><summary><h2>About me</h2></summary>
-
-- Currently a third-year computer science student at the University of British Columbia
-
-- I'm available for winter co-ops starting in January
-  
-- Currently learning: key exchange, encryption, python sockets
-  
-- Currently working on: python encrypted chat application
-
-- E-mail: [TylerKerswell@gmail.com](mailto:TylerKerswell@gmail.com)  
-
-
-</details>
-
 
 
 <details open><summary><h2>Skillset</h2></summary>
